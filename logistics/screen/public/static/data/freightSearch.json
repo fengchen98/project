@@ -1,0 +1,66 @@
+[
+    {
+        "dist": "中国大陆",
+        "transport": "ParcelForce自送邮局",
+        "cost": "78.52",
+        "time": "7-12天",
+        "status": "delay",
+        "remark": "经济特惠，英国皇家邮政特惠中国专线"
+    },
+    {
+        "dist": "中国大陆",
+        "transport": "ParcelForce上门取件",
+        "cost": "80.55",
+        "time": "7-12天",
+        "status": "delay",
+        "remark": "经济特惠，英国皇家邮政特惠中国专线"
+    },
+    {
+        "dist": "中国大陆",
+        "transport": "ParcelForce自送Depot",
+        "cost": "75.67",
+        "time": "7-12天",
+        "status": "delay",
+        "remark": "经济特惠，英国皇家邮政特惠中国专线"
+    },
+    {
+        "dist": "中国大陆",
+        "transport": "ParcelForce优先包",
+        "cost": "109.59",
+        "time": "约3-7天",
+        "status": "normal",
+        "remark": "极速优质，可购大额保险，可投递邮局，全英价格匹配"
+    },
+    {
+        "dist": "中国大陆",
+        "transport": "ParcelForce经济包",
+        "cost": "90.30",
+        "time": "7-14天",
+        "status": "fault",
+        "remark": "经济特惠，英国皇家邮政特惠中国专线，全英价格匹配"
+    },
+    {
+        "dist": "中国大陆",
+        "transport": "Bpost比利时邮政",
+        "cost": "85.57",
+        "time": "7-14天",
+        "status": "delay",
+        "remark": "比利时邮政，享誉全球的服务口碑，全英价格匹配"
+    },
+    {
+        "dist": "中国大陆",
+        "transport": "法国邮政",
+        "cost": "76.28",
+        "time": "7-14天",
+        "status": "fault",
+        "remark": "英国起飞，直飞中国，1-30KG任意邮寄，全英价格匹配"
+    },
+    {
+        "dist": "中国大陆",
+        "transport": "空运行李",
+        "cost": "83.46",
+        "time": "7-14天",
+        "status": "fault",
+        "remark": "【限时减免10英镑】行李空运门到门服务，最高30KG，全英范围支持取件/自送【关注微信公众号领10英镑优惠券】"
+    }
+]

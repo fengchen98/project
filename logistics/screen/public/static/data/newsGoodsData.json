@@ -1,0 +1,38 @@
+[
+    {
+        "title": "热门商品测试1",
+        "author": "神州物流",
+        "date": "2021-12-01",
+        "type": "service",
+        "tag": "热门商品",
+        "link": "/",
+        "src": "news_pic_3"
+    },
+    {
+        "title": "热门商品测试2",
+        "author": "神州物流",
+        "date": "2021-10-28",
+        "type": "service",
+        "tag": "热门商品",
+        "link": "/",
+        "src": "news_pic_7"
+    },
+    {
+        "title": "热门商品测试3",
+        "author": "神州物流",
+        "date": "2021-10-04",
+        "type": "service",
+        "tag": "热门商品",
+        "link": "/",
+        "src": "news_pic_13"
+    },
+    {
+        "title": "热门商品测试4",
+        "author": "神州物流",
+        "date": "2021-09-09",
+        "type": "service",
+        "tag": "热门商品",
+        "link": "/",
+        "src": "news_pic_14"
+    }
+]

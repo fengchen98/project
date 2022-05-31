@@ -1,0 +1,38 @@
+[
+    {
+        "title": "服务公告测试1",
+        "author": "神州物流",
+        "date": "2021-12-01",
+        "type": "service",
+        "tag": "服务公告",
+        "link": "/",
+        "src": "news_pic_11"
+    },
+    {
+        "title": "服务公告测试2",
+        "author": "神州物流",
+        "date": "2021-10-28",
+        "type": "service",
+        "tag": "服务公告",
+        "link": "/",
+        "src": "news_pic_5"
+    },
+    {
+        "title": "服务公告测试3",
+        "author": "神州物流",
+        "date": "2021-10-04",
+        "type": "service",
+        "tag": "服务公告",
+        "link": "/",
+        "src": "news_pic_13"
+    },
+    {
+        "title": "服务公告测试4",
+        "author": "神州物流",
+        "date": "2021-09-09",
+        "type": "service",
+        "tag": "服务公告",
+        "link": "/",
+        "src": "news_pic_9"
+    }    
+]

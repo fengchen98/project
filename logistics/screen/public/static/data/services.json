@@ -1,0 +1,160 @@
+[
+    {
+        "icon": "service_1",
+        "title": "法国邮政",
+        "classify": "万国邮政",
+        "instructionlist": [
+            "此路线按实重收费，最大30KG",
+            "不计体积，包裹最长边不允许超1.5米",
+            "三边之和不能超过1米5",
+            "相关国内清关手续需由收件人自理"
+        ],
+        "insurancelist": [
+            "丢失保险: 50英镑",
+            "破损保险: 外箱破损造成的内件损坏可代为向EMS索赔"
+        ],
+        "timeliness": "7-14天",
+        "carriage": "EMS",
+        "serviceid": "1"
+    },
+    {
+        "icon": "service_2",
+        "title": "两罐奶粉",
+        "classify": "奶粉包税",
+        "instructionlist": [
+            "包税专线不计体积费用",
+            "不同品牌段数可以混装",
+            "下单需要提交收件人身份证信息"
+        ],
+        "insurancelist": [
+            "丢失保险: 50英镑",
+            "破损保险: 外箱破损造成的内件损坏可代为向EMS索赔（奶粉需要使用气柱和双层瓦楞纸厚箱正规包装，否则不授予破损理赔）"
+        ],
+        "timeliness": "7-12天",
+        "carriage": "EMS",
+        "serviceid": "2"
+    },
+    {
+        "icon": "service_2",
+        "title": "四罐奶粉",
+        "classify": "奶粉包税",
+        "instructionlist": [
+            "包税专线不计体积费用",
+            "不同品牌段数可以混装",
+            "下单需要提交收件人身份证信息"
+        ],
+        "insurancelist": [
+            "丢失保险: 50英镑",
+            "破损保险: 外箱破损造成的内件损坏可代为向EMS索赔（奶粉需要使用气柱和双层瓦楞纸厚箱正规包装，否则不授予破损理赔）"
+        ],
+        "timeliness": "7-12天",
+        "carriage": "EMS",
+        "serviceid": "3"
+    },
+    {
+        "icon": "service_2",
+        "title": "六罐奶粉",
+        "classify": "奶粉包税",
+        "instructionlist": [
+            "包税专线不计体积费用",
+            "不同品牌段数可以混装",
+            "下单需要提交收件人身份证信息",
+            "同一个收件人同一天最多下单2箱"
+        ],
+        "insurancelist": [
+            "丢失保险: 50英镑",
+            "破损保险: 外箱破损造成的内件损坏可代为向EMS索赔（奶粉需要使用气柱和双层瓦楞纸厚箱正规包装，否则不授予破损理赔）"
+        ],
+        "timeliness": "5-10天",
+        "carriage": "EMS",
+        "serviceid": "4"
+    },
+    {
+        "icon": "service_5",
+        "title": "杂货小包",
+        "classify": "杂货包税",
+        "instructionlist": [
+            "此路线要求体积重不超过3.5KG",
+            "下单需要提交收件人身份证信息",
+            "同一个收件人同一天最多下单2箱",
+            "有严格的装箱规则"
+        ],
+        "insurancelist": [
+            "丢失保险: 50英镑",
+            "破损保险: 无"
+        ],
+        "timeliness": "7-14天",
+        "carriage": "EMS",
+        "serviceid": "5"
+    },
+    {
+        "icon": "service_6",
+        "title": "套装专线",
+        "classify": "杂货包税",
+        "instructionlist": [
+            "此路线要求体积重不超过4KG",
+            "下单需要提交收件人身份证信息",
+            "同一个收件人同一天最多下单2箱",
+            "有严格的装箱规则",
+            "此路线只允许邮寄护肤品，每个包裹只允许邮寄一件套装且不允许混装"
+        ],
+        "insurancelist": [
+            "丢失保险: 50英镑",
+            "破损保险: 无"
+        ],
+        "timeliness": "7-14天",
+        "carriage": "",
+        "serviceid": "6"
+    },
+    {
+        "icon": "service_7",
+        "title": "空运行李",
+        "classify": "行李文件",
+        "instructionlist": [
+            "此路线按实重收费，最大30KG",
+            "包裹最长边不允许超1米，三边之和不超150厘米",
+            "建议使用专业纸箱邮寄"
+        ],
+        "insurancelist": [
+            "丢失保险: 50英镑",
+            "破损保险: 无"
+        ],
+        "timeliness": "7-14天",
+        "carriage": "EMS",
+        "serviceid": "7"
+    },
+    {
+        "icon": "service_8",
+        "title": "海运行李（服务暂停）",
+        "classify": "行李文件",
+        "instructionlist": [
+            "此路线按实重收费，最大30KG",
+            "包裹最长边不允许超1米，三边之和不超150厘米",
+            "建议使用专业纸箱邮寄"
+        ],
+        "insurancelist": [
+            "丢失保险: 50英镑",
+            "破损保险: 外箱破损造成的内件损坏可代为向EMS索赔"
+        ],
+        "timeliness": "45-65天",
+        "carriage": "EMS",
+        "serviceid": "8"
+    },
+    {
+        "icon": "service_9",
+        "title": "UPS文件特快",
+        "classify": "行李文件",
+        "instructionlist": [
+            "文件专线最大重量0.5KG内",
+            "只允许邮寄纸质文件",
+            "需将文件放入大信封内邮寄",
+            "可自送全英任何一家UPS网点",
+            "可免费预约指定日期取件",
+            "重要文件请进行备份后进行邮寄"
+        ],
+        "insurancelist": [],
+        "timeliness": "约3-5天",
+        "carriage": "UPS",
+        "serviceid": "9"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "title": "新闻资讯测试1",
+        "author": "神州物流",
+        "date": "2021-12-01",
+        "type": "service",
+        "tag": "新闻资讯",
+        "link": "/",
+        "src": "news_pic_10"
+    },
+    {
+        "title": "新闻资讯测试2",
+        "author": "神州物流",
+        "date": "2021-10-28",
+        "type": "service",
+        "tag": "新闻资讯",
+        "link": "/",
+        "src": "news_pic_12"
+    },
+    {
+        "title": "新闻资讯测试3",
+        "author": "神州物流",
+        "date": "2021-10-27",
+        "type": "service",
+        "tag": "新闻资讯",
+        "link": "/",
+        "src": "news_pic_12"
+    },
+    {
+        "title": "新闻资讯测试4",
+        "author": "神州物流",
+        "date": "2021-10-28",
+        "type": "service",
+        "tag": "新闻资讯",
+        "link": "/",
+        "src": "news_pic_12"
+    },
+    {
+        "title": "新闻资讯测试5",
+        "author": "神州物流",
+        "date": "2021-09-15",
+        "type": "service",
+        "tag": "新闻资讯",
+        "link": "/",
+        "src": "news_pic_12"
+    },
+    {
+        "title": "新闻资讯测试6",
+        "author": "神州物流",
+        "date": "2021-09-10",
+        "type": "service",
+        "tag": "新闻资讯",
+        "link": "/",
+        "src": "news_pic_12"
+    },
+    {
+        "title": "新闻资讯测试7",
+        "author": "神州物流",
+        "date": "2021-05-01",
+        "type": "service",
+        "tag": "新闻资讯",
+        "link": "/",
+        "src": "news_pic_12"
+    },
+    {
+        "title": "新闻资讯测试8",
+        "author": "神州物流",
+        "date": "2021-03-12",
+        "type": "service",
+        "tag": "新闻资讯",
+        "link": "/",
+        "src": "news_pic_12"
+    }
+]

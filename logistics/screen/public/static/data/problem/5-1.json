@@ -1,0 +1,18 @@
+{
+    "id": "1",
+    "question": "如何查询物流",
+    "content": [
+        "@国际物流追踪",
+        ":每个包裹都有一个专属的SD追踪号，可以查询英国到中国的所有物流情况，物流追踪可以通过以下两种方式进行查询:",
+        " 登陆速递中国官网，进入‘我的账户’，在订单页面进行直接追踪。",
+        " 根据每个包裹的SD单号，可在国内快速查询网站快递100、菜鸟裹裹或在此网址进行查询: <a href='http://china-ems-tracking.com/'>http://china-ems-tracking.com/</a>",
+        "@包裹状态",
+        ":当包裹下单成功，物流追踪会即刻显示【英国 伦敦】单号注册生成 Item is announced in the UK；",
+        ":当包裹送达速递中国门店或仓库被扫描签收，物流追踪会显示【英国 伦敦】集运中心揽收 Processed by Crawley Hub(UK)。",
+        "loadPicture/problem_5_1_1.png",
+        "@英国境内追踪",
+        ":一般包裹送件方式除去自送仓库、自送门店外，其他的大多数都需要依靠第三方取件公司的服务，如自送UPS、UPS上门取件、PF上门取件等；这些服务是将包裹从寄件人的地址送到速递中国的投递服务，因此会产生一个英国境内追踪单号；如果包裹一直是单号注册生成状态，就需要检查包裹是否已经通过这些第三方公司送达速递中国仓库，可以登陆速递中国官网，进入‘我的账户’查询每个包裹的境内追踪并进行查询。",
+        ":UPS查询网址: <a href='https://www.ups.com/track?loc=en_US&requester=WT/'>https://www.ups.com/track?loc=en_US&requester=WT/</a>",
+        ":PF查询网址: <a href='https://www.parcelforce.com/'>https://www.parcelforce.com/</a>"
+    ]
+}

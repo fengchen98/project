@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.shenzhou.logistics.dao.FreightDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.shenzhou.logistics.entity.FreightEntity" id="freightMap">
+        <result property="id" column="id"/>
+        <result property="weightMin" column="weightMin"/>
+        <result property="weightMax" column="weightMax"/>
+        <result property="selfDelivery" column="selfDelivery"/>
+        <result property="callPickup" column="callPickup"/>
+        <result property="selfDeliveryDepot" column="selfDeliveryDepot"/>
+        <result property="documentExpress" column="documentExpress"/>
+        <result property="priorityPackage" column="priorityPackage"/>
+        <result property="economicPackage" column="economicPackage"/>
+        <result property="smallPackage" column="smallPackage"/>
+        <result property="belgiumPost" column="belgiumPost"/>
+        <result property="sixMilkPowder" column="sixMilkPowder"/>
+        <result property="fourMilkPowder" column="fourMilkPowder"/>
+        <result property="groceryTax" column="groceryTax"/>
+        <result property="francePost" column="francePost"/>
+        <result property="groceryPackage" column="groceryPackage"/>
+        <result property="skinCarePackage" column="skinCarePackage"/>
+        <result property="suitSpecialLine" column="suitSpecialLine"/>
+        <result property="plusGroceries" column="plusGroceries"/>
+        <result property="seaTransportation" column="seaTransportation"/>
+        <result property="airTransportation" column="airTransportation"/>
+        <result property="twoMilkPowder" column="twoMilkPowder"/>
+    </resultMap>
+
+
+</mapper>

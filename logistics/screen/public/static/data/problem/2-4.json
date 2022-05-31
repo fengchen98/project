@@ -1,0 +1,19 @@
+{
+    "id": "4",
+    "question": "送网点去哪里投递",
+    "content": [
+        ":包裹在下单时可以选择上门取件或自送网点投递;",
+        ":上门取件的优点是无需出门会有专门司机来取件收货，缺点是需要在家等一整天;",
+        ":自送网点投递的服务的优点就是可以自行安排投递时间（包含周末），投递点遍布全英，缺点是如果包裹太多可能无法一次性投递完毕。",
+        ":<hr>",
+        ":除了自送仓库、自送门店以外，其他的服务通过第三方公司承运揽收后送到速递中国仓库，大部分服务都是24小时特快服务，第一个工作日投递包裹，第二个工作日即可到达速递中国主仓；所有费用都在速递中国网站下单时一并支付，投递时无需支付其他的费用，可以在下单时自行选择离您最近的投递网点。",
+        " 如选择投递UPS网点，送去的包裹体积重不能超过15KG，否则会有£30-50不等的罚款",
+        " PF服务下的自送邮局和自送Depot地点不同，要避免混淆送错，否则可能会有罚款产生",
+        " 所有投递网点服务，都建议索要小票收据，保留投递证据",
+        ":<hr>",
+        ":参考链接:",
+        ":UPS网点查询: <a href='https://www.ups.com/dropoff'>https://www.ups.com/dropoff</a>",
+        ":Post Office 邮局网点查询: <a href='https://www.postoffice.co.uk/branchfinder1'>https://www.postoffice.co.uk/branchfinder1</a>",
+        ":PF Depot 网点查询: <a href='https://www.parcelforce.com/depot-finder'>https://www.parcelforce.com/depot-finder</a>"
+    ]
+}

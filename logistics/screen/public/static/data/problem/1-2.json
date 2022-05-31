@@ -1,0 +1,15 @@
+{
+    "id": "2",
+    "question": "如何选择邮寄路线",
+    "content": [
+        " <a href='#/webapp/service/introduce/express/baggage_mailing'>学生行李</a>",
+        " <a href='#/webapp/service/introduce/express/milkpowder_line'>奶粉专线</a>",
+        " <a href='#/webapp/service/introduce/express/small_package'>小包裹</a>",
+        " <a href='#/webapp/service/introduce/express/groceries'>杂货专线</a>",
+        " <a href='#/webapp/service/introduce/express/universal_post'>万国邮政</a>",
+        " <a href='#/webapp/service/introduce/express/express_file'>文件特快</a>",
+        " <a href='#/webapp/service/introduce/express/global_service'>全球服务</a>",
+        ":任何包裹的邮寄运费询价，都是基于在知道包裹重量的情况下;",
+        ":建议打包完包裹之后先大概预估一下包裹的重量、包装纸箱的长宽高，根据物品内件来选择最合适的服务。"
+    ]
+}
